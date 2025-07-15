@@ -74,12 +74,3 @@
 </p>
 
 ---
-
-### 📫 Как со мной связаться:
-
-<!-- Замените [ссылка] на ваши реальные ссылки -->
-<p align="left">
-  <a href="[ссылка на ваш Telegram]" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="[ссылка на ваш VK]" target="_blank"><img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/></a>
-  <a href="mailto:[ваша_почта@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
