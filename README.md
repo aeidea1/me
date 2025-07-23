@@ -70,6 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aeidea1&show_icons=true&theme=tokyonight&locale=ru" alt="Статистика GitHub aeidea1" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeidea1&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков aeidea1" />
 </p>
 
