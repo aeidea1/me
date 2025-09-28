@@ -1,64 +1,78 @@
-### 👋 Привет, я @aeidea1! (he/him)
+<!-- 
+Создай классный баннер в Canva (https://www.canva.com/) или Figma. 
+Размер ~1280x400px. Загрузи его в свой репозиторий и вставь ссылку сюда.
+-->
+<p align="center">
+  <img src="https://assets.pinterest.com/ext/embed.html?id=60869032460164179" alt="Аман - Разработчик-универсал"/>
+</p>
 
-Я Junior IT-специалист и энтузиаст технологий с широким спектром интересов: от веб-разработки и геймдева до 3D-моделирования и системного администрирования. Люблю решать сложные задачи и постоянно осваивать новые инструменты.
+<h1 align="center">Привет, я Аман 👋</h1>
+<h3 align="center">Junior Frontend разработчик с душой инженера-универсала</h3>
 
-- 🏆 Активный участник всероссийских хакатонов и призер областных конкурсов по веб-разработке.
-- 💡 Совмещаю в себе роли разработчика, дизайнера и системного администратора.
-- ✈️ Имею опыт оператора БВС (беспилотных воздушных судов).
+<p align="center">
+  <a href="https://t.me/[ТВОЙ_ТЕЛЕГРАМ_НИК]" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://[ТВОЯ_ССЫЛКА_НА_LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-### 🔭 Сейчас я работаю над:
+### 👨‍💻 Обо мне
 
-- **Проект "Aetherius"**: Веду разработку специализированного проекта для структур МО и МВД РФ.
-- **Собственный игровой проект**: Создаю свою игру, применяя навыки в C# и 3D-дизайне.
-- **Веб-безопасность**: Углубляю свои знания в области защиты веб-приложений.
+Я — Junior Frontend разработчик, но моя страсть к технологиям не знает границ. Моя суперсила — это любознательность и способность быстро погружаться в новые области: от элегантного кода на **JavaScript** до настройки серверов на **Linux** и создания 3D-моделей в **Blender**.
+
+🏆 **Призер областных конкурсов** по веб-разработке и активный участник всероссийских **хакатонов**. Обожаю атмосферу соревнований и решение сложных задач в сжатые сроки.
+
+💡 Во мне уживаются три специалиста:
+-   **Разработчик**, который пишет чистый и понятный код.
+-   **Дизайнер**, который мыслит категориями UI/UX и видит продукт глазами пользователя.
+-   **Системный администратор**, который понимает, как всё это работает "под капотом".
+
+✈️ А еще у меня есть опыт управления **беспилотниками** — я умею смотреть на задачи с высоты птичьего полета, в прямом и переносном смысле!
+
+🚀 **Сейчас я активно развиваюсь во фронтенде, углубляясь во Vue.js, и ищу команду, где смогу применять свой разносторонний опыт для решения нетривиальных задач.**
 
 ---
 
-### 💻 Мой технологический стек и навыки
+### 🛠 Мой технологический арсенал
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <strong>Frontend:</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-      </p>
-      <strong>Backend & DB:</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      </p>
-      <strong>Языки программирования:</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+      <h4 align="center">Фронтенд (Основной фокус)</h4>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>
+        <a href="https://vuejs.org/"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/></a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <strong>AI / ML:</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/AI-%23007BFF.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-        <img src="https://img.shields.io/badge/Machine%20Learning-%23FF8C00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
-        <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=for-the-badge" alt="Gemini API" />
+      <h4 align="center">Бэкенд и Базы Данных (Изучаю)</h4>
+      <p align="center">
+        <a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/></a>
+        <a href="https://www.php.net/"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"/></a>
+        <a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/></a>
       </p>
-      <strong>Инструменты и платформы:</strong><br>
-      <p>
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4 align="center">Дизайн и 3D</h4>
+      <p align="center">
+        <a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"/></a>
+        <a href="https://www.blender.org/"><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge-512x512.png" alt="Blender" height="50"/></a>
       </p>
-      <strong>Прочее:</strong><br>
-      <p>
-        Системное администрирование<br>
-        Веб-безопасность (базовые концепции)<br>
-        UI/UX Дизайн и 3D-моделирование<br>
-        Ведение технической документации<br>
-        Работа с конфиденциальной информацией
+    </td>
+    <td valign="top" width="50%">
+      <h4 align="center">Инструменты и Платформы</h4>
+      <p align="center">
+        <a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>
+        <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/></a>
+        <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/></a>
       </p>
     </td>
   </tr>
@@ -69,9 +83,20 @@
 ### 📊 Моя статистика на GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeidea1&show_icons=true&theme=tokyonight&locale=ru" alt="Статистика GitHub aeidea1" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeidea1&layout=compact&theme=tokyonight&locale=ru" alt="Топ языков aeidea1" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИКНЕЙМ]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИКНЕЙМ]&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
+
+### ⚡ Немного о личном
+
+Когда я не погружен в код или новые технологии, меня можно найти здесь:
+
+-   🕹️ **Игры и милитари культура:** от тактических симуляторов до изучения истории.
+-   🌲 **Хайкинг и фаертаг:** лучший способ перезагрузить мозг — это активный отдых на природе.
+-   🍥 **Аниме:** всегда готов обсудить новинки сезона или порекомендовать классику.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=[ТВОЙ_НИКНЕЙМ]&theme=dracula&row=1&column=7" alt="achievements" />
+</p>
