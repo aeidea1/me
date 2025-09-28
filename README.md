@@ -50,23 +50,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4 align="center">Дизайн и 3D</h4>
-      <p align="center">
-        <a href="https://www.figma.com/"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50"/></a>
-        <a href="https://www.blender.org/"><img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge-512x512.png" alt="Blender" height="50"/></a>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4 align="center">Инструменты и Платформы</h4>
-      <p align="center">
-        <a href="https://git-scm.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/></a>
-        <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/></a>
-        <a href="https://www.docker.com/"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50"/></a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
