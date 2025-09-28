@@ -9,15 +9,6 @@
 <h1 align="center">Привет, я Аман 👋</h1>
 <h3 align="center">Junior Frontend разработчик с душой инженера-универсала</h3>
 
-<p align="center">
-  <a href="https://t.me/[ТВОЙ_ТЕЛЕГРАМ_НИК]" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://[ТВОЯ_ССЫЛКА_НА_LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 Обо мне
