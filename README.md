@@ -54,11 +54,14 @@
 
 ---
 
-### 📊 Моя статистика на GitHub
+### 📊 Моя статистика
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[ТВОЙ_НИКНЕЙМ]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ТВОЙ_НИКНЕЙМ]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=[aeidea1]&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Статистика GitHub"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[aeidea1]&layout=compact&langs_count=10&theme=github_dark&card_width=400" alt="Топ языков"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[aeidea1]&theme=github_dark&date_format=j%20M%5B%20Y%5D" alt="Статистика коммитов"/>
 </p>
 
 ---
@@ -70,7 +73,3 @@
 -   🕹️ **Игры и милитари культура:** от тактических симуляторов до изучения истории.
 -   🌲 **Хайкинг и фаертаг:** лучший способ перезагрузить мозг — это активный отдых на природе.
 -   🍥 **Аниме:** всегда готов обсудить новинки сезона или порекомендовать классику.
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[ТВОЙ_НИКНЕЙМ]&theme=dracula&row=1&column=7" alt="achievements" />
-</p>
