@@ -2,12 +2,6 @@
   <img src="https://i.pinimg.com/1200x/8f/c3/7d/8fc37d42ebe1425efbe0bd1d1c24eed0.jpg" alt="Аман - Разработчик-универсал"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/aeidea1">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejc1aHhrZ3ljdTV3M21wZXRwZ2Jkb2prZWZtbTR5YW9jNW9rcnFzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6jpVoA/giphy.gif" alt="Coding GIF" width="400"/>
-  </a>
-</p>
-
 <h1 align="center">Привет! Меня зовут aeidea1 👋</h1>
 <h3 align="center">Junior Frontend разработчик, превращающий идеи в код и кофе в работающие приложения.</h3>
 
