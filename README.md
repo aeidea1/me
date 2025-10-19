@@ -35,9 +35,11 @@
   <img src="https://img.shields.io/badge/Web%20Security-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="Web Security"/>
 </p>
 
-<br>
+<p align="center">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aeidea1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
 
 <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aeidea1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeidea1&layout=compact&langs_count=8&theme=dracula"/>
 </p>
+
